@@ -131,7 +131,7 @@ export default function Footer() {
         <div className="mt-6 border-t border-slate-800 pt-4 text-center text-xs text-slate-500">
           Design and Developed by{' '}
           <Link href="https://devalizaid.me" className="text-blue-400 hover:text-blue-300 font-semibold" target="_blank" rel="noopener noreferrer">
-            Shaikh Ali Zaid
+            ARIGEN BIOTECH PVT. LTD.
           </Link>
           .
         </div>
