@@ -12,7 +12,7 @@ export default function Hero() {
               <span>🧬</span> Research-driven nanobiotech
             </p>
             <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
-              Advanced Nanobiotechnology for a Sustainable 
+              Advanced Nanobiotechnology for a Sustainable Future
             </h1>
             <p className="mt-6 text-lg md:text-xl text-indigo-100 max-w-xl">
               ARIGEN Biotech builds high-impact solutions in smart fertilizers,
