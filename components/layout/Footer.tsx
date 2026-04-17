@@ -126,12 +126,10 @@ export default function Footer() {
             </Link>
           </div>
         </div>
-
-        {/* Brand attribution */}
-        <div className="mt-6 border-t border-slate-800 pt-4 text-center text-xs text-slate-500">
-          Design and Developed by{' '}
-          <Link href="https://devalizaid.me" className="text-blue-400 hover:text-blue-300 font-semibold" target="_blank" rel="noopener noreferrer">
-            ARIGEN BIOTECH PVT. LTD.
+         <div className="mt-6 border-t border-slate-800 pt-4 text-center text-xs text-slate-500">
+          © {currentYear} Arigen Biotech Pvt Ltd. All rights reserved.
+          </div>
+       
           </Link>
           .
         </div>
